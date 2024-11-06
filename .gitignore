@@ -1,0 +1,8 @@
+test.ipynb
+/__pycache__
+/.vscode
+/CroppedDataset
+/Datasets
+/model_save
+/preDataset
+/SequenceDataset
